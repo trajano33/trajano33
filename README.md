@@ -1,4 +1,4 @@
-# Olá, eu sou Trajano1533! 🌟
+# Olá! Eu sou Trajano1533 🚀
 
 ---
 
@@ -9,19 +9,19 @@
 ---
 
 ## Sobre Mim
-Olá! Sou Trajano1533, um estudante apaixonado por segurança da informação e entusiasta de hardware hacking. Estou em constante busca por aprimorar minhas habilidades em segurança cibernética e descobrir novas maneiras de aplicar meu conhecimento em hardware.
+Olá! Sou Trajano1533, um estudante apaixonado por segurança da informação e entusiasta de hardware hacking. Estou constantemente aprimorando minhas habilidades em segurança cibernética e explorando novas maneiras de aplicar meu conhecimento em hardware.
 
 ---
 
 ## Interesses
-- **Segurança da Informação:** Estou sempre explorando novas técnicas, vulnerabilidades e métodos de proteção para manter-me atualizado no mundo da segurança digital.
-- **Hardware Hacking:** Adoro desvendar os segredos dos dispositivos, entendendo como funcionam e encontrando maneiras criativas de utilizá-los.
-- **Batch Script:** Acredito no potencial da programação em Batch Script para automatizar tarefas no Windows e estou constantemente explorando suas possibilidades.
+- **Segurança da Informação:** Sempre buscando aprender sobre as últimas técnicas, vulnerabilidades e práticas de proteção para garantir a segurança digital.
+- **Hardware Hacking:** Fascinado em desvendar os segredos dos dispositivos, compreendendo seu funcionamento interno e descobrindo maneiras criativas de utilizá-los.
+- **Batch Script:** Acredito no potencial do Batch Script para automatizar tarefas no Windows e estou constantemente explorando suas possibilidades para simplificar processos.
 
 ---
 
 ## Contato
-Se você estiver interessado em colaborar em projetos, discutir tópicos de segurança da informação ou simplesmente bater um papo sobre tecnologia, sinta-se à vontade para me encontrar em:
+Se você estiver interessado em colaborar em projetos, discutir tópicos de segurança da informação ou apenas bater um papo sobre tecnologia, fique à vontade para me encontrar em:
 
 <p align="center">
   <a href="https://t.me/trajano1533">
