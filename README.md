@@ -2,12 +2,14 @@
 
 ---
 
-![Gif](https://miro.medium.com/v2/resize:fit:1000/0*xyjltrx0bwjn2ZCu.gif)
+<div align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:1000/0*xyjltrx0bwjn2ZCu.gif" alt="Gif"/>
+</div>
 
 ---
 
 ## Sobre mim
-Olá! Sou o Trajano1533, um estudante entusiasta de segurança da informação e apaixonado por hardware hacking. Atualmente, estou imerso em aprimorar minhas habilidades em segurança cibernética e explorar novas maneiras de aplicar meu conhecimento em hardware.
+Olá! Eu sou Trajano1533, um estudante entusiasta de segurança da informação e apaixonado por hardware hacking. Atualmente, estou focado em aprimorar minhas habilidades em segurança cibernética e explorar novas maneiras de aplicar meu conhecimento em hardware.
 
 ---
 
@@ -21,7 +23,13 @@ Olá! Sou o Trajano1533, um estudante entusiasta de segurança da informação e
 ## Contato
 Se você estiver interessado em colaborar em projetos, discutir tópicos de segurança da informação ou apenas bater um papo sobre tecnologia, fique à vontade para me encontrar em:
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png" alt="Telegram" width="20"/> [Telegram](https://t.me/trajano1533)
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Discord-icon-svgrepo-com.svg/640px-Discord-icon-svgrepo-com.svg.png" alt="Discord" width="20"/> [Discord](#)
+<div align="center">
+  <a href="https://t.me/trajano1533">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png" alt="Telegram" width="40"/>
+  </a>
+  <a href="#">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Discord-icon-svgrepo-com.svg/640px-Discord-icon-svgrepo-com.svg.png" alt="Discord" width="40"/>
+  </a>
+</div>
 
-Vamos nos conectar e explorar o mundo da tecnologia juntos! 🌐
+Crux Sacra Sit Mihi Lux
