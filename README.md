@@ -10,7 +10,7 @@ Olá! Meu nome é Trajano, e sou um estudante de segurança da informação apai
 
 ## Contato
 Se você estiver interessado em colaborar em projetos, discutir tópicos de segurança da informação ou apenas bater um papo sobre tecnologia, você pode me encontrar em:
-- [<img src="https://simpleicons.org/icons/telegram.svg" alt="Telegram" width="20"/> Telegram](https://t.me/trajano1533)
-- [<img src="https://simpleicons.org/icons/discord.svg" alt="Discord" width="20"/> Discord](#)
+- <img src="https://simpleicons.org/icons/telegram.svg" alt="Telegram" width="20"/> [Telegram](https://t.me/trajano1533)
+- <img src="https://simpleicons.org/icons/discord.svg" alt="Discord" width="20"/> [Discord](#)
 
 Vamos nos conectar e explorar o mundo da tecnologia juntos!
