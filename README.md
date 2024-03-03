@@ -1,4 +1,4 @@
-# Bem-vindo ao meu perfil! 🌟
+# Olá, eu sou Trajano1533! 🌟
 
 ---
 
@@ -8,20 +8,20 @@
 
 ---
 
-## Sobre mim
-Olá! Eu sou Trajano1533, um estudante entusiasta de segurança da informação e apaixonado por hardware hacking. Atualmente, estou focado em aprimorar minhas habilidades em segurança cibernética e explorar novas maneiras de aplicar meu conhecimento em hardware.
+## Sobre Mim
+Olá! Sou Trajano1533, um estudante apaixonado por segurança da informação e entusiasta de hardware hacking. Estou em constante busca por aprimorar minhas habilidades em segurança cibernética e descobrir novas maneiras de aplicar meu conhecimento em hardware.
 
 ---
 
 ## Interesses
-- **Segurança da Informação:** Estou sempre buscando aprender sobre novas técnicas de segurança, vulnerabilidades e métodos de proteção.
-- **Hardware Hacking:** Adoro desvendar os segredos dos dispositivos, explorando como funcionam e descobrindo maneiras criativas de usá-los.
-- **Batch Script:** A programação em Batch Script pode ser subestimada, mas acredito em seu potencial para automação de tarefas no Windows e gosto de explorá-la.
+- **Segurança da Informação:** Estou sempre explorando novas técnicas, vulnerabilidades e métodos de proteção para manter-me atualizado no mundo da segurança digital.
+- **Hardware Hacking:** Adoro desvendar os segredos dos dispositivos, entendendo como funcionam e encontrando maneiras criativas de utilizá-los.
+- **Batch Script:** Acredito no potencial da programação em Batch Script para automatizar tarefas no Windows e estou constantemente explorando suas possibilidades.
 
 ---
 
 ## Contato
-Se você estiver interessado em colaborar em projetos, discutir tópicos de segurança da informação ou apenas bater um papo sobre tecnologia, fique à vontade para me encontrar em:
+Se você estiver interessado em colaborar em projetos, discutir tópicos de segurança da informação ou simplesmente bater um papo sobre tecnologia, sinta-se à vontade para me encontrar em:
 
 <p align="center">
   <a href="https://t.me/trajano1533">
@@ -32,4 +32,4 @@ Se você estiver interessado em colaborar em projetos, discutir tópicos de segu
   </a>
 </p>
 
-Crux Sacra Sit Mihi Lux
+**Crux Sacra Sit Mihi Lux**
