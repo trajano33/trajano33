@@ -9,13 +9,13 @@
 ---
 
 ## Sobre Mim
-Olá! Sou Trajano1533, um estudante apaixonado por segurança da informação e entusiasta de hardware hacking. Estou constantemente aprimorando minhas habilidades em segurança cibernética e explorando novas maneiras de aplicar meu conhecimento em hardware.
+Olá! Sou Trajano1533, um estudante apaixonado por segurança da informação e entusiasta de hardware hacking. Estou em constante busca por aprimorar minhas habilidades em segurança cibernética e explorar novas maneiras de aplicar meu conhecimento em hardware.
 
 ---
 
 ## Interesses
-- **Segurança da Informação:** Sempre buscando aprender sobre as últimas técnicas, vulnerabilidades e práticas de proteção para garantir a segurança digital.
-- **Hardware Hacking:** Fascinado em desvendar os segredos dos dispositivos, compreendendo seu funcionamento interno e descobrindo maneiras criativas de utilizá-los.
+- **Segurança da Informação:** Sempre me atualizando sobre as últimas técnicas, vulnerabilidades e práticas de proteção para garantir a segurança digital.
+- **Hardware Hacking:** Fascinado em desvendar os segredos dos dispositivos, compreendendo seu funcionamento interno e encontrando maneiras criativas de utilizá-los.
 - **Batch Script:** Acredito no potencial do Batch Script para automatizar tarefas no Windows e estou constantemente explorando suas possibilidades para simplificar processos.
 
 ---
