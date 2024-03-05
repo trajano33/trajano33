@@ -27,7 +27,7 @@ se você estiver interessado em colaborar em projetos, discutir tópicos de segu
   <a href="https://t.me/trajano1533">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-telegram_logo.svg.png" alt="telegram" width="40"/>
   </a>
-  <a href="https://discord.gg/GSk8PMQeCV">
+  <a href="https://discord.com/invite/NYNQwuEX">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Discord-icon-svgrepo-com.svg/640px-discord-icon-svgrepo-com.svg.png" alt="discord" width="40"/>
   </a>
 </p>
