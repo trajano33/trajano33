@@ -28,7 +28,7 @@ se você estiver interessado em colaborar em projetos, discutir tópicos de segu
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" width="40"/>
   </a>
   <a href="https://t.me/trajano1533">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1yrG4P-PBQVi35-DD3M2G9VxK_P-Yc1lWGQ&s" alt="telegram" width="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/960px-Telegram_logo.svg.png" alt="telegram" width="40"/>
   </a>
   <a href="https://discord.com/users/852666353776590852">
     <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="discord" width="40"/>
